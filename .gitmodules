@@ -1,3 +1,4 @@
 [submodule "cfasttext-sys/cfasttext"]
 	path = cfasttext-sys/cfasttext
-	url = https://github.com/messense/cfasttext.git
+	url = https://github.com/stillmatic/cfasttext.git
+	branch = master
